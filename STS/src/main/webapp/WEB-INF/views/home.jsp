@@ -6,7 +6,7 @@
 	<title>Home</title>
 </head>
 <body>
-<a href="login.sil">로그인</a><br />
+<a href="login.sil">로그인2</a><br />
 <a href="notice.sil">Notice</a>
 </body>
 </html>
